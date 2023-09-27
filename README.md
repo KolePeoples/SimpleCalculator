@@ -1,1 +1,1 @@
-A simple calculator app for my portfolio
+A simple calculator app. Really just my first C# app on mac and making sure I can build something functional.
